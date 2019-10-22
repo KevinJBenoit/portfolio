@@ -3,7 +3,7 @@ import './App.css';
 import Navigation from './Navigation.js'
 function App() {
   return (
-    <div className="flex">
+    <div className="">
        <Navigation></Navigation>
     </div>
   );
