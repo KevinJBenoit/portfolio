@@ -10,7 +10,7 @@
 h1 {
     font-weight: lighter;
     padding-top: 10px;
-    
+    text-align: center;
 }
 
 .bodyContent {
@@ -18,8 +18,10 @@ h1 {
 }
 
 section {
-    margin-left: 30px;
-    margin-bottom: 50px;
+    display: flex;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    flex-direction: row;
 }
 
 h2 {
@@ -34,7 +36,6 @@ svg {
 }
 
 p {
-    padding-left: 37px;
     margin-top:0px;
 }
 

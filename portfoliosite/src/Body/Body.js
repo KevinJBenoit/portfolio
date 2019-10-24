@@ -8,15 +8,70 @@ const Body= () => {
                 <h1>I wanted to learn to build websites. Like this one, for example.</h1>
                 <div className="bodyContent">
                     <section>
-                        <h2> 
-                            <svg width="25" height="18">
+                        <svg className="pt4" width="25" height="18">
                                 <image href="https://image.flaticon.com/icons/svg/148/148781.svg" width="26" height="26"/>
-                            </svg>
-                            I'm a Software Developer at Oregon State.
-                        </h2>
-                        <p>Python, C++, SQL</p>
+                        </svg>
+                        <div>
+                            <h2> 
+                                I'm a Software Developer at Oregon State.
+                            </h2>
+                            <p>Python, C++, SQL</p>
+                        </div>
                     </section>
+
                     <section>
+                        <svg className="pt4" width="25" height="18">
+                                <image href="https://image.flaticon.com/icons/svg/148/148781.svg" width="26" height="26"/>
+                        </svg>
+                        <div>
+                            <h2> 
+                                I've taught myself Full-Stack Web Development
+                            </h2>
+                            <p>JavaScript, MTL/CSS, React.js</p>
+                        </div>
+                    </section>
+
+                    <section>
+                        <svg className="pt4" width="25" height="18">
+                                <image href="https://image.flaticon.com/icons/svg/2164/2164327.svg" width="26" height="26"/>
+                        </svg>
+                        <div>
+                            <h2> 
+                                Let's talk about algorithms
+                            </h2>
+                            <p>The answer is Quicksort</p>
+                        </div>
+                    </section>
+
+                    <section>
+                        <svg className="pt4" width="25" height="18">
+                                <image href="https://image.flaticon.com/icons/svg/148/148836.svg" width="26" height="26"/>
+                        </svg>
+                        <div>
+                            <h2> 
+                                Version Control and bug-free code
+                            </h2>
+                            <p>Git/GitHub, Unit Testing</p>
+                        </div>
+                    </section>
+
+                    <section>
+                        <svg className="pt4" width="25" height="18">
+                                <image href="https://image.flaticon.com/icons/svg/256/256959.svg" width="26" height="26"/>
+                        </svg>
+                        <div>
+                            <h2> 
+                                I'm actively growing as a developer
+                            </h2>
+                            <p>Currently researching Machine Learning</p>
+                        </div>
+                    </section>
+
+
+
+
+
+                    {/* <section>
                         <h2> 
                             <svg width="25" height="18">
                                 <image href="https://image.flaticon.com/icons/svg/148/148781.svg" width="26" height="26"/>
@@ -51,7 +106,7 @@ const Body= () => {
                             I'm actively growing as a developer.
                         </h2>
                         <p>Currently researching Machine Learning</p>
-                    </section>
+                    </section> */}
                 </div>
                 <footer className="flex justify-center pb2">
                 <svg className="pr0" width="25" height="25">
