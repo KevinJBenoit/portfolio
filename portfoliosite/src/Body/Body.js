@@ -43,7 +43,7 @@ const Body= () => {
                         </h2>
                         <p>Git/GitHub, Unit Testing</p>
                     </section>
-                    <section>
+                    <section id="lastSection">
                         <h2> 
                             <svg width="25" height="18">
                                 <image href="https://image.flaticon.com/icons/svg/256/256959.svg" width="26" height="26"/>
@@ -53,9 +53,9 @@ const Body= () => {
                         <p>Currently researching Machine Learning</p>
                     </section>
                 </div>
-                <footer  className="flex justify-center">
-                <svg className="" width="24" height="25">
-                    <image href="https://image.flaticon.com/icons/svg/149/149060.svg" width="25" height="25"/>
+                <footer className="flex justify-center pb2">
+                <svg className="pr0" width="25" height="25">
+                    <image href="https://image.flaticon.com/icons/svg/149/149060.svg" width="19" height="21"/>
                 </svg>
                 Arvada, Colorado, United States
             </footer>
