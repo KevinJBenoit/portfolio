@@ -4,6 +4,7 @@ import Navigation from './Navigation/Navigation.js'
 import Body from './Body/Body.js'
 import Resume from './Resume/Resume.js'
 import Portfolio from './Portfolio/Portfolio.js'
+import Contact from './Contact/Contact.js'
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
           <Navigation></Navigation>
           {/* <Resume></Resume> */}
           {/* <Body></Body> */}
-          <Portfolio></Portfolio>
+          {/* <Portfolio></Portfolio> */}
+          <Contact></Contact>
     </div>
   );
 }
