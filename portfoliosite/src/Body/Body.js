@@ -27,7 +27,7 @@ const Body= () => {
                             <h2> 
                                 I've taught myself Full-Stack Web Development
                             </h2>
-                            <p>JavaScript, MTL/CSS, React.js</p>
+                            <p>JavaScript, HMTL/CSS, React, Express</p>
                         </div>
                     </section>
 

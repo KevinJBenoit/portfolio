@@ -1,0 +1,27 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    /* width: 90vw;
+    padding-left: 20vw; */
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+svg {
+    overflow: visible;
+}
+
+#skills {
+    margin-bottom: 10pxcd ;
+    list-style-type: none;
+    font-size: larger;
+}

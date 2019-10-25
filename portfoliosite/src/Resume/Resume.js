@@ -1,0 +1,60 @@
+import React from 'react'
+import './Resume.css'
+
+const Resume= () => {
+    return (
+        <div>
+            <main className="mainWrapper">
+                <section>
+                    <h1>Yes, I was a farmer.
+                        <svg className="pt4 pl2" width="25" height="25">
+                            <image href="https://image.flaticon.com/icons/svg/1864/1864470.svg" width="25" height="25"/>
+                        </svg>
+                    </h1>
+                        <div>
+                            <h2>
+                                <strong>Data Scientist/Co-Owner, </strong> 
+                                January 2017-September 2019
+                            </h2>
+                            <ul>
+                                <li>Analyzed operational as well as sales data in order to measure and optimize business efficiency</li>
+                                <li>Enabled and maintained online sales platform which led to a 45% increase in sales</li>
+                            </ul>
+                        </div>
+                        <h1 className="pt6">Skills</h1>
+                            <ul id="skills">
+                                <li> 
+                                    <strong>Languages</strong>
+                                    <p>Python, C++, SQL, JavaScript</p>
+                                </li>
+                                <li> 
+                                    <strong> Frameworks</strong>
+                                    <p>
+                                    React, Node, Express
+                                    </p>
+                                </li>
+                            </ul>
+
+                        <h1 className="pt6">Education</h1>
+                        <ul id="skills">
+                            <li> 
+                                <strong> B.S. Computer Science</strong>
+                                <p>
+                                Oregon State University, 2018-Present
+                                </p>
+                            </li>
+                            <li> 
+                                <strong>B.S. Biology</strong>
+                                <p>Lehigh University, 2011-2015</p>
+                            </li>
+                        </ul>
+                </section>
+                <section>
+                    
+                </section>
+            </main>
+        </div>
+    );
+}
+
+export default Resume;
