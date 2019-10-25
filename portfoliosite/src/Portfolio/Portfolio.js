@@ -21,7 +21,7 @@ const Portfolio= () => {
                     Python
                     </p>
                     <p>
-                        <a className="blue dim link" href="https://github.com/KevinJBenoit/Average-Rent" target="_blank">
+                        <a className="blue dim link" href="https://github.com/KevinJBenoit/Average-Rent" target="_blank" rel="noopener noreferrer">
                             <svg className="pt2" width="15" height="15">
                                 <image href="https://git-scm.com/images/logos/logomark-black@2x.png" width="18" height="18"/>
                             </svg>
@@ -43,7 +43,7 @@ const Portfolio= () => {
                     Python, SQL
                     </p>
                     <p>
-                        <a className="blue dim link" href="https://github.com/KevinJBenoit/Rx_Database" target="_blank">
+                        <a className="blue dim link" href="https://github.com/KevinJBenoit/Rx_Database" target="_blank" rel="noopener noreferrer">
                             <svg className="pt2" width="15" height="15">
                                 <image href="https://git-scm.com/images/logos/logomark-black@2x.png" width="18" height="18"/>
                             </svg>
@@ -65,7 +65,7 @@ const Portfolio= () => {
                     C++
                     </p>
                     <p>
-                        <a className="blue dim link" href="https://github.com/KevinJBenoit/ArchaeologyHunt" target="_blank">
+                        <a className="blue dim link" href="https://github.com/KevinJBenoit/ArchaeologyHunt" target="_blank"  rel="noopener noreferrer">
                             <svg className="pt2" width="15" height="15">
                                 <image href="https://git-scm.com/images/logos/logomark-black@2x.png" width="18" height="18"/>
                             </svg>
@@ -74,6 +74,12 @@ const Portfolio= () => {
                     </p>
                 </div>
             </section>
+        <footer className="flex justify-center pb2">
+            <svg className="pr0" width="25" height="25">
+                <image href="https://image.flaticon.com/icons/svg/149/149060.svg" width="19" height="21"/>
+            </svg>
+            Arvada, Colorado, United States
+        </footer>
         </main>
         </div>
     );

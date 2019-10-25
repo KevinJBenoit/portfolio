@@ -5,18 +5,36 @@ import Body from './Body/Body.js'
 import Resume from './Resume/Resume.js'
 import Portfolio from './Portfolio/Portfolio.js'
 import Contact from './Contact/Contact.js'
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { Switch, Route} from "react-router-dom";
 
 
 function App() {
   return (
     <div className="Site">
           <Navigation></Navigation>
-          {/* <Resume></Resume> */}
-          {/* <Body></Body> */}
-          {/* <Portfolio></Portfolio> */}
-          {/* <Contact></Contact> */}
+          <Switch>
+              
+            <Route path="/resume">
+              <Resume />
+            </Route>
+            
+            <Route path="/portfolio">
+              <Portfolio />
+            </Route>
+            
+            <Route path="/contact">
+              <Contact />
+            </Route>
+            
+
+            <Route path="/">
+              <Body />
+            </Route>
+
+          </Switch>
     </div>
+
+
   );
 }
 

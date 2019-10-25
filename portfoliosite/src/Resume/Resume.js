@@ -21,7 +21,7 @@ const Resume= () => {
                                 <li>Enabled and maintained online sales platform which led to a 45% increase in sales</li>
                             </ul>
                         </div>
-                        <h1 className="pt6">Skills</h1>
+                        <h1 className="pt5">Skills</h1>
                             <ul id="skills">
                                 <li> 
                                     <strong>Languages</strong>
@@ -35,7 +35,7 @@ const Resume= () => {
                                 </li>
                             </ul>
 
-                        <h1 className="pt6">Education</h1>
+                        <h1 className="pt4">Education</h1>
                         <ul id="skills">
                             <li> 
                                 <strong> B.S. Computer Science</strong>
@@ -49,6 +49,12 @@ const Resume= () => {
                             </li>
                         </ul>
                 </section>
+                <footer className="flex justify-center pb2">
+                    <svg className="pr0" width="25" height="25">
+                        <image href="https://image.flaticon.com/icons/svg/149/149060.svg" width="19" height="21"/>
+                    </svg>
+                    Arvada, Colorado, United States
+                </footer>
             </main>
         </div>
     );

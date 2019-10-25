@@ -5,7 +5,7 @@ const Body= () => {
     return (
         <div>
             <main className="mainWrapper">
-                <h1>I wanted to learn to build websites. Like this one, for example.
+                <h1>I've had a passion for computers since Windows 95
                     <svg width="30" height="25">
                                     <image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Windows_Logo_1995.svg/692px-Windows_Logo_1995.svg.png" width="30" height="30"/>
                     </svg>
@@ -70,47 +70,6 @@ const Body= () => {
                             <p>Currently researching Machine Learning</p>
                         </div>
                     </section>
-
-
-
-
-
-                    {/* <section>
-                        <h2> 
-                            <svg width="25" height="18">
-                                <image href="https://image.flaticon.com/icons/svg/148/148781.svg" width="26" height="26"/>
-                            </svg>
-                            I've taught myself Full-Stack Web Development.
-                        </h2>
-                        <p>JavaScript, HTML/CSS, React.js</p>
-                    </section>
-                    <section>
-                        <h2> 
-                            <svg width="25" height="18">
-                                <image href="https://image.flaticon.com/icons/svg/2164/2164327.svg" width="26" height="26"/>
-                            </svg>
-                            Let's talk about algorithms
-                        </h2>
-                        <p>The answer is Quicksort</p>
-                    </section>
-                    <section>
-                        <h2> 
-                            <svg width="25" height="18">
-                                <image href="https://image.flaticon.com/icons/svg/148/148836.svg" width="26" height="26"/>
-                            </svg>
-                            Version Control and bug-free code
-                        </h2>
-                        <p>Git/GitHub, Unit Testing</p>
-                    </section>
-                    <section id="lastSection">
-                        <h2> 
-                            <svg width="25" height="18">
-                                <image href="https://image.flaticon.com/icons/svg/256/256959.svg" width="26" height="26"/>
-                            </svg>
-                            I'm actively growing as a developer.
-                        </h2>
-                        <p>Currently researching Machine Learning</p>
-                    </section> */}
                 </div>
                 <footer className="flex justify-center pb2">
                 <svg className="pr0" width="25" height="25">

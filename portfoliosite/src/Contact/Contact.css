@@ -1,8 +1,10 @@
-ul {
+#contactlist {
     list-style: none;
     font-size: larger;
+    text-align: center;
+    min-height: calc(100vh - 221px);
 }
 
-ul{
-    text-align: center;
+footer {
+    margin-top: auto;
 }
