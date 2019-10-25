@@ -5,7 +5,7 @@ const Resume= () => {
     return (
         <div>
             <main className="mainWrapper">
-                <section>
+                <section id="resumeSection">
                     <h1>Yes, I was a farmer.
                         <svg className="pt4 pl2" width="25" height="25">
                             <image href="https://image.flaticon.com/icons/svg/1864/1864470.svg" width="25" height="25"/>
@@ -48,9 +48,6 @@ const Resume= () => {
                                 <p>Lehigh University, 2011-2015</p>
                             </li>
                         </ul>
-                </section>
-                <section>
-                    
                 </section>
             </main>
         </div>

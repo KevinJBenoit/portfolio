@@ -5,7 +5,11 @@ const Body= () => {
     return (
         <div>
             <main className="mainWrapper">
-                <h1>I wanted to learn to build websites. Like this one, for example.</h1>
+                <h1>I wanted to learn to build websites. Like this one, for example.
+                    <svg width="30" height="25">
+                                    <image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Windows_Logo_1995.svg/692px-Windows_Logo_1995.svg.png" width="30" height="30"/>
+                    </svg>
+                </h1>
                 <div className="bodyContent">
                     <section>
                         <svg className="pt4" width="25" height="18">
