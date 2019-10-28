@@ -2,7 +2,7 @@
   "name": "portfoliosite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kevinjbenoit.github.io/portfolio/",
+  "homepage": "kevincode.dev",
 
   "dependencies": {
     "gh-pages": "^2.1.1",
