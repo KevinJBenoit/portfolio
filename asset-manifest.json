@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "kevincode.dev/static/css/main.6e89e75b.chunk.css",
-    "main.js": "kevincode.dev/static/js/main.807a4e38.chunk.js",
-    "main.js.map": "kevincode.dev/static/js/main.807a4e38.chunk.js.map",
-    "runtime-main.js": "kevincode.dev/static/js/runtime-main.815a0146.js",
-    "runtime-main.js.map": "kevincode.dev/static/js/runtime-main.815a0146.js.map",
-    "static/css/2.eb45ad44.chunk.css": "kevincode.dev/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.35d6b419.chunk.js": "kevincode.dev/static/js/2.35d6b419.chunk.js",
-    "static/js/2.35d6b419.chunk.js.map": "kevincode.dev/static/js/2.35d6b419.chunk.js.map",
-    "index.html": "kevincode.dev/index.html",
-    "precache-manifest.44e02d47eb425fd01e9919622be18a35.js": "kevincode.dev/precache-manifest.44e02d47eb425fd01e9919622be18a35.js",
-    "service-worker.js": "kevincode.dev/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "kevincode.dev/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.6e89e75b.chunk.css.map": "kevincode.dev/static/css/main.6e89e75b.chunk.css.map"
+    "main.css": "kevinjbenoit.github.io/static/css/main.6e89e75b.chunk.css",
+    "main.js": "kevinjbenoit.github.io/static/js/main.a7760736.chunk.js",
+    "main.js.map": "kevinjbenoit.github.io/static/js/main.a7760736.chunk.js.map",
+    "runtime-main.js": "kevinjbenoit.github.io/static/js/runtime-main.a087af04.js",
+    "runtime-main.js.map": "kevinjbenoit.github.io/static/js/runtime-main.a087af04.js.map",
+    "static/css/2.eb45ad44.chunk.css": "kevinjbenoit.github.io/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.35d6b419.chunk.js": "kevinjbenoit.github.io/static/js/2.35d6b419.chunk.js",
+    "static/js/2.35d6b419.chunk.js.map": "kevinjbenoit.github.io/static/js/2.35d6b419.chunk.js.map",
+    "index.html": "kevinjbenoit.github.io/index.html",
+    "precache-manifest.b2453e430d4c9dcfbedd1c9fb053abef.js": "kevinjbenoit.github.io/precache-manifest.b2453e430d4c9dcfbedd1c9fb053abef.js",
+    "service-worker.js": "kevinjbenoit.github.io/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "kevinjbenoit.github.io/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.6e89e75b.chunk.css.map": "kevinjbenoit.github.io/static/css/main.6e89e75b.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.815a0146.js",
+    "static/js/runtime-main.a087af04.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.35d6b419.chunk.js",
     "static/css/main.6e89e75b.chunk.css",
-    "static/js/main.807a4e38.chunk.js"
+    "static/js/main.a7760736.chunk.js"
   ]
 }
