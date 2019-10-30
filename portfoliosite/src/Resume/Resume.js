@@ -13,12 +13,14 @@ const Resume= () => {
                     </h1>
                         <div>
                             <h2>
-                                <strong>Data Scientist/Co-Owner, </strong> 
+                                <strong>Data Scientist/Co-Owner, Open Hearth Farm </strong> 
                                 January 2017-September 2019
                             </h2>
                             <ul>
                                 <li>Analyzed operational as well as sales data in order to measure and optimize business efficiency</li>
                                 <li>Enabled and maintained online sales platform which led to a 45% increase in sales</li>
+                                <li>Developed an efficient project management system</li>
+                                <li>Resolved client compaints with solution-oriented customer care</li>
                             </ul>
                         </div>
                         <h1 className="pt5">Skills</h1>
@@ -31,6 +33,18 @@ const Resume= () => {
                                     <strong> Frameworks</strong>
                                     <p>
                                     React, Node, Express
+                                    </p>
+                                </li>
+                                <li> 
+                                    <strong> Databases</strong>
+                                    <p>
+                                    MySQL, PostgreSQL, SQLite
+                                    </p>
+                                </li>
+                                <li> 
+                                    <strong> Version Control</strong>
+                                    <p>
+                                    Git
                                     </p>
                                 </li>
                             </ul>
