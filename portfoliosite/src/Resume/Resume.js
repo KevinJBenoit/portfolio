@@ -13,7 +13,7 @@ const Resume= () => {
                     </h1>
                         <div>
                             <h2>
-                                <strong>Data Scientist/Co-Owner, Open Hearth Farm </strong> 
+                                <strong>Data Scientist/Co-Owner, Open Hearth Farm </strong>
                                 January 2017-September 2019
                             </h2>
                             <ul>
@@ -25,23 +25,23 @@ const Resume= () => {
                         </div>
                         <h1 className="pt5">Skills</h1>
                             <ul id="skills">
-                                <li> 
+                                <li>
                                     <strong>Languages</strong>
                                     <p>Python, C++, SQL, JavaScript</p>
                                 </li>
-                                <li> 
+                                <li>
                                     <strong> Frameworks</strong>
                                     <p>
                                     React, Node, Express
                                     </p>
                                 </li>
-                                <li> 
+                                <li>
                                     <strong> Databases</strong>
                                     <p>
                                     MySQL, PostgreSQL, SQLite
                                     </p>
                                 </li>
-                                <li> 
+                                <li>
                                     <strong> Version Control</strong>
                                     <p>
                                     Git
@@ -51,13 +51,13 @@ const Resume= () => {
 
                         <h1 className="pt4">Education</h1>
                         <ul id="skills">
-                            <li> 
+                            <li>
                                 <strong> B.S. Computer Science</strong>
                                 <p>
-                                Oregon State University, 2018-Present
+                                Oregon State University, 2019-Present
                                 </p>
                             </li>
-                            <li> 
+                            <li>
                                 <strong>B.S. Biology</strong>
                                 <p>Lehigh University, 2011-2015</p>
                             </li>
