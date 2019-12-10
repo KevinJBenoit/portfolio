@@ -44,3 +44,8 @@ p {
 footer {
     margin-top: auto;
 }
+
+#advent {
+    color: rgb(217, 46, 58);
+    text-decoration: none
+}

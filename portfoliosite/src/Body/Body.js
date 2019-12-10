@@ -16,7 +16,7 @@ const Body= () => {
                                 <image href="https://image.flaticon.com/icons/svg/148/148781.svg" width="26" height="26"/>
                         </svg>
                         <div>
-                            <h2> 
+                            <h2>
                                 I'm a Software Developer at Oregon State.
                             </h2>
                             <p>Python, C++, SQL</p>
@@ -28,7 +28,7 @@ const Body= () => {
                                 <image href="https://image.flaticon.com/icons/svg/148/148781.svg" width="26" height="26"/>
                         </svg>
                         <div>
-                            <h2> 
+                            <h2>
                                 I've taught myself Full-Stack Web Development
                             </h2>
                             <p>JavaScript, HMTL/CSS, React, Express</p>
@@ -40,7 +40,7 @@ const Body= () => {
                                 <image href="https://image.flaticon.com/icons/svg/2164/2164327.svg" width="26" height="26"/>
                         </svg>
                         <div>
-                            <h2> 
+                            <h2>
                                 Let's talk about algorithms
                             </h2>
                             <p>The answer is Quicksort</p>
@@ -52,7 +52,7 @@ const Body= () => {
                                 <image href="https://image.flaticon.com/icons/svg/148/148836.svg" width="26" height="26"/>
                         </svg>
                         <div>
-                            <h2> 
+                            <h2>
                                 Version Control and bug-free code
                             </h2>
                             <p>Git/GitHub, Unit Testing</p>
@@ -64,10 +64,11 @@ const Body= () => {
                                 <image href="https://image.flaticon.com/icons/svg/256/256959.svg" width="26" height="26"/>
                         </svg>
                         <div>
-                            <h2> 
+                            <h2>
                                 I'm actively growing as a developer
                             </h2>
-                            <p>Currently researching Machine Learning</p>
+                            <p>Currently saving Santa in <a id="advent" href="https://adventofcode.com/" target="_blank">Advent of Code 2019</a></p>
+
                         </div>
                     </section>
                 </div>
@@ -78,7 +79,7 @@ const Body= () => {
                 Arvada, Colorado, United States
             </footer>
             </main>
-            
+
         </div>
     );
 }
