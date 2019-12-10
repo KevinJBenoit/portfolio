@@ -67,7 +67,7 @@ const Body= () => {
                             <h2>
                                 I'm actively growing as a developer
                             </h2>
-                            <p>Currently saving Santa in <a id="advent" href="https://adventofcode.com/" target="_blank">Advent of Code 2019</a></p>
+                            <p>Currently saving Santa in <a id="advent" href="https://adventofcode.com/2019/about" target="_blank">Advent of Code 2019</a></p>
 
                         </div>
                     </section>
