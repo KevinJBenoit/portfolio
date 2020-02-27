@@ -67,7 +67,7 @@ const Body= () => {
                             <h2>
                                 I'm actively growing as a developer
                             </h2>
-                            <p>Currently focused on coursework for school 🎓</p>
+                            <p>Currently focused on coursework for school <span role="img" aria-label="cap">🎓</span></p>
 
                         </div>
                     </section>
