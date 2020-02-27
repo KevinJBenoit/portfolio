@@ -27,7 +27,7 @@ const Resume= () => {
                             <ul id="skills">
                                 <li>
                                     <strong>Languages</strong>
-                                    <p>Python, C++, SQL, JavaScript</p>
+                                    <p>Python, C++, C, SQL, JavaScript</p>
                                 </li>
                                 <li>
                                     <strong> Frameworks</strong>

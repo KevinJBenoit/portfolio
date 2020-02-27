@@ -19,7 +19,7 @@ const Body= () => {
                             <h2>
                                 I'm a Software Developer at Oregon State.
                             </h2>
-                            <p>Python, C++, SQL</p>
+                            <p>Python, C++/C, SQL</p>
                         </div>
                     </section>
 
@@ -43,7 +43,7 @@ const Body= () => {
                             <h2>
                                 Let's talk about algorithms
                             </h2>
-                            <p>The answer is Quicksort</p>
+                            <p>Who doesn't love a good Quicksort?</p>
                         </div>
                     </section>
 
@@ -67,7 +67,7 @@ const Body= () => {
                             <h2>
                                 I'm actively growing as a developer
                             </h2>
-                            <p>Currently saving Santa in <a id="advent" href="https://adventofcode.com/2019/about" target="_blank">Advent of Code 2019</a></p>
+                            <p>Currently focused on coursework for school 🎓</p>
 
                         </div>
                     </section>
