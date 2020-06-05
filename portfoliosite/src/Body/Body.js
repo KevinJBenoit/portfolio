@@ -19,7 +19,7 @@ const Body= () => {
                             <h2>
                                 I'm a Software Developer at Oregon State.
                             </h2>
-                            <p>Python, C++/C, SQL</p>
+                            <p>C++/C, Python, SQL</p>
                         </div>
                     </section>
 
@@ -29,9 +29,9 @@ const Body= () => {
                         </svg>
                         <div>
                             <h2>
-                                I've taught myself Full-Stack Web Development
+                                An advocate for good Archictecture & Design
                             </h2>
-                            <p>JavaScript, HMTL/CSS, React, Express</p>
+                            <p>SOLID, UML, Code Smells</p>
                         </div>
                     </section>
 
