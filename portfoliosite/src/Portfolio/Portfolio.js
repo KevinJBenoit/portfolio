@@ -73,7 +73,30 @@ const Portfolio= () => {
                         </a>
                     </p>
                 </div>
+
                 <div className="project" id="game">
+                <div className="project bb" id="rxdata">
+                    <h2>Document Scanner</h2>
+                    <p>
+                    <svg className="pt2" width="15" height="13">
+                            <image href="https://image.flaticon.com/icons/svg/157/157933.svg" width="16" height="16"/>
+                    </svg>
+                    An experiment with OpenCV in Python to convert an image into a pdf file</p>
+                    <p>
+                    <svg className="pt2" width="15" height="13">
+                            <image href="https://image.flaticon.com/icons/svg/25/25627.svg" width="16" height="16"/>
+                    </svg>
+                    Python, OpenCV
+                    </p>
+                    <p>
+                        <a className="blue dim link" href="https://github.com/KevinJBenoit/DocScanner" target="_blank" rel="noopener noreferrer">
+                            <svg className="pt2" width="15" height="15">
+                                <image href="https://git-scm.com/images/logos/logomark-black@2x.png" width="18" height="18"/>
+                            </svg>
+                        View on GitHub
+                        </a>
+                    </p>
+                </div>
                     <h2>Archaelogy Hunt Game</h2>
                     <p>
                     <svg className="pt2" width="15" height="13">
