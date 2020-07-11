@@ -18,8 +18,8 @@ const Resume= () => {
                             </h2>
                             <ul>
                                 <li>Developed an efficient project management system</li>
-                                <li>Maintined working relationships with businesses involved in my supply-chain</li>
-                                <li>Resolved client compaints with solution-oriented customer care</li>
+                                <li>Maintained working relationships with businesses involved in my supply-chain</li>
+                                <li>Resolved client complaints with solution-oriented customer care</li>
                                 <li>Analyzed operational as well as sales data in order to measure and optimize business efficiency</li>
                             </ul>
                         </div>
