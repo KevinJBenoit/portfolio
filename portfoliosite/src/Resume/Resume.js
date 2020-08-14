@@ -13,11 +13,23 @@ const Resume= () => {
                     </h1>
                         <div>
                             <h2>
+                                <strong>Software Development Intern, Maptek </strong>
+                                June 2020-September 2020
+                            </h2>
+                            <ul>
+                                <li>Developed new features such as remotely accessing/editing database values in order to enhance customer workflow requested by major clients</li>
+                                <li>Improved menu design and functionality to update product module and better client experience</li>
+                                <li>Converted legacy code into a modern OOP framework so that future development is streamlined</li>
+                                <li>Collaborated with product experts to ensure end results met client expectations in the form of video conferences</li>
+                                <li>Attended daily SCRUM meetings to stay up to date with developer events</li>
+                            </ul>
+                            <br></br>
+                            <h2>
                                 <strong>Co-Owner, Open Hearth Farm </strong>
                                 January 2017-September 2019
                             </h2>
                             <ul>
-                                <li>Developed an efficient project management system</li>
+                                <li>Developed and executed a business plan, becoming a profitable business within two years</li>
                                 <li>Maintained working relationships with businesses involved in my supply-chain</li>
                                 <li>Resolved client complaints with solution-oriented customer care</li>
                                 <li>Analyzed operational as well as sales data in order to measure and optimize business efficiency</li>
@@ -50,7 +62,7 @@ const Resume= () => {
                                 <li>
                                     <strong> Version Control</strong>
                                     <p>
-                                    Git
+                                    Git, Hg
                                     </p>
                                 </li>
                             </ul>

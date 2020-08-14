@@ -23,3 +23,8 @@ svg {
     list-style-type: none;
     font-size: larger;
 }
+
+h2 + ul {
+    width: 750px;
+    word-wrap: break-word;
+}
