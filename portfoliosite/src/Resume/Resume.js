@@ -14,7 +14,7 @@ const Resume= () => {
                         <div>
                             <h2>
                                 <strong>Software Development Intern, Maptek </strong>
-                                June 2020-September 2020
+                                June 2020-Current
                             </h2>
                             <ul>
                                 <li>Developed new features such as remotely accessing/editing database values in order to enhance customer workflow requested by major clients</li>
