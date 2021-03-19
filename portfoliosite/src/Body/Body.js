@@ -67,7 +67,7 @@ const Body= () => {
                             <h2>
                                 I'm actively growing as a developer
                             </h2>
-                            <p>Currently focused on coursework for school <span role="img" aria-label="cap">🎓</span></p>
+                            <p>Currently focused on coursework for school and completing tickets at work<span role="img" aria-label="cap">🎓</span></p>
 
                         </div>
                     </section>
@@ -76,7 +76,7 @@ const Body= () => {
                 <svg className="pr0" width="25" height="25">
                     <image href="https://image.flaticon.com/icons/svg/149/149060.svg" width="19" height="21"/>
                 </svg>
-                Arvada, Colorado, United States
+                Westminster, Colorado, United States
             </footer>
             </main>
 

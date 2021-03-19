@@ -145,7 +145,7 @@ const Portfolio= () => {
             <svg className="pr0" width="25" height="25">
                 <image href="https://image.flaticon.com/icons/svg/149/149060.svg" width="19" height="21"/>
             </svg>
-            Arvada, Colorado, United States
+            Westminster, Colorado, United States
         </footer>
         </main>
         </div>

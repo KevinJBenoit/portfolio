@@ -8,7 +8,7 @@ const Footer= () => {
                 <svg className="" width="24" height="25">
                     <image href="https://image.flaticon.com/icons/svg/149/149060.svg" width="25" height="25"/>
                 </svg>
-                Arvada, Colorado, United States
+                Westminster, Colorado, United States
             </footer>
         </div>
     );

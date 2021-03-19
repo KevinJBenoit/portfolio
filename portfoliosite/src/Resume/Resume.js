@@ -44,7 +44,7 @@ const Resume= () => {
                                 <li>
                                     <strong> Libraries</strong>
                                     <p>
-                                    SFML, React, Express
+                                    ODA Drawings SDK, SFML, React, Express
                                     </p>
                                 </li>
                                 <li>
@@ -85,7 +85,7 @@ const Resume= () => {
                     <svg className="pr0" width="25" height="25">
                         <image href="https://image.flaticon.com/icons/svg/149/149060.svg" width="19" height="21"/>
                     </svg>
-                    Arvada, Colorado, United States
+                    Westminster, Colorado, United States
                 </footer>
             </main>
         </div>
