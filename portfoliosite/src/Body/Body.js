@@ -17,9 +17,9 @@ const Body= () => {
                         </svg>
                         <div>
                             <h2>
-                                I'm a Software Developer at Oregon State.
+                                I'm a Software Engineer at Maptek.
                             </h2>
-                            <p>C++/C, Python, SQL</p>
+                            <p>C++/C</p>
                         </div>
                     </section>
 
@@ -55,7 +55,7 @@ const Body= () => {
                             <h2>
                                 Version Control and bug-free code
                             </h2>
-                            <p>Git/GitHub, Unit Testing</p>
+                            <p>Mercurial, Git/GitHub</p>
                         </div>
                     </section>
 
@@ -65,9 +65,9 @@ const Body= () => {
                         </svg>
                         <div>
                             <h2>
-                                I'm actively growing as a developer
+                                Continuous improvement
                             </h2>
-                            <p>Currently focused on coursework for school and completing tickets at work<span role="img" aria-label="cap">🎓</span></p>
+                            <p>Currently focused on Vulcan maintenance</p>
 
                         </div>
                     </section>

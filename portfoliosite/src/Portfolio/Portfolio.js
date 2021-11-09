@@ -8,12 +8,12 @@ const Portfolio= () => {
             <h1>Some projects I have created.</h1>
             <section id="projects">
             <div className="project bb" id="clue">
-                    <h2>Digital Clue</h2>
+                    <h2>Audio Loop</h2>
                     <p>
                     <svg className="pt2" width="15" height="13">
                             <image href="https://image.flaticon.com/icons/svg/157/157933.svg" width="16" height="16"/>
                     </svg>
-                    An Agile team project involving a digital GUI recreation of the board game Clue using the SFML framework</p>
+                    An Agile team project involving a digital GUI recreation of an audio loop station using the SFML framework</p>
                     <p>
                     <svg className="pt2" width="15" height="13">
                             <image href="https://image.flaticon.com/icons/svg/25/25627.svg" width="16" height="16"/>
@@ -21,7 +21,7 @@ const Portfolio= () => {
                     C++
                     </p>
                     <p>
-                        <a className="blue dim link" href="https://github.com/anishreddy82/clue" target="_blank" rel="noopener noreferrer">
+                        <a className="blue dim link" href="https://github.com/muhnkee/AudioLoop" target="_blank" rel="noopener noreferrer">
                             <svg className="pt2" width="15" height="15">
                                 <image href="https://git-scm.com/images/logos/logomark-black@2x.png" width="18" height="18"/>
                             </svg>

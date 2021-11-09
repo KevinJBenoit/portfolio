@@ -13,14 +13,24 @@ const Resume= () => {
                     </h1>
                         <div>
                             <h2>
+                                <strong>Software Engineer, Maptek </strong>
+                                September 2021-Current
+                            </h2>
+                            <ul>
+                                <li>Correct faults and delivered improvements to the company’s CAD software, Vulcan</li>
+                                <li>Detangle legacy code to follow clean code standards</li>
+                                <li>Collaborat with product team to implement user stories</li>
+                                <li>Improve design and functionality to update product modules and provide a better client experience</li>
+                                <li>Translated Vulcan 3D objects into AutoCAD .dwg using ODA Drawings SDK</li>
+                            </ul>
+                            <br></br>
+                            <h2>
                                 <strong>Software Development Intern, Maptek </strong>
-                                June 2020-Current
+                                June 2020-August 2021
                             </h2>
                             <ul>
                                 <li>Developed new features such as remotely accessing/editing database values in order to enhance customer workflow requested by major clients</li>
-                                <li>Improved menu design and functionality to update product module and better client experience</li>
-                                <li>Converted legacy code into a modern OOP framework so that future development is streamlined</li>
-                                <li>Collaborated with product experts to ensure end results met client expectations in the form of video conferences</li>
+                                <li>Collaborat with product experts to ensure end results met client expectations in the form of video conferences</li>
                                 <li>Attended daily SCRUM meetings to stay up to date with developer events</li>
                             </ul>
                             <br></br>
@@ -70,9 +80,9 @@ const Resume= () => {
                         <h1 className="pt4">Education</h1>
                         <ul id="skills">
                             <li>
-                                <strong> B.S. Computer Science</strong>
+                                <strong> B.S. Computer Science, 4.00</strong>
                                 <p>
-                                Oregon State University, 2019-Present
+                                Oregon State University, 2019-2021
                                 </p>
                             </li>
                             <li>
